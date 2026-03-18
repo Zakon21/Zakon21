@@ -31,4 +31,3 @@
 ![Bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu%20bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233c1ddd?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white)
-![Windows Server](https://img.shields.io/badge/windows%20server-blue?style=flat-square&logo=windows-server&logoColor=white)
