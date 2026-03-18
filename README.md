@@ -1,4 +1,29 @@
-## Hi there 👋
+###
+
+<h1 align="center">Привет👋 Меня зовут Дилюс!</h1>
+
+###
+
+<h3 align="left">👩‍💻  Обо мне</h3>
+
+###
+
+<p align="left">В IT с 2024 года — начинал с техподдержки, где прокачал базу: работа с пользователями, разбор инцидентов и понимание, как всё ломается (и чинится 🙂). Со временем углубился в инфраструктуру и процессы, сейчас работаю ведущим специалистом КИИ.
+
+Постепенно двигаюсь в сторону DevOps: изучаю автоматизацию, CI/CD, контейнеризацию и всё, что помогает делать системы стабильнее и удобнее в поддержке.
+
+Люблю разбираться в том, как всё устроено под капотом, и улучшать процессы. Открыт к интересным задачам и проектам, где можно расти и приносить пользу.</p>
+
+###
+
+<h3 align="left">🌐Contact Me</h3>
+[![Telegram](https://img.shields.io/badge/Telegram-1A1D23?logo=telegram&color=1A1D23)](https://t.me/dddggg_01)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dilus2108@gmail.com)
+
+###
+
+<h3 align="left">🛠 Технологии:</h3>
+
 
 <!--
 **Zakon21/Zakon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
