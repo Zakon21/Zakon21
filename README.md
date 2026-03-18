@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </a>
 <a>
-<img />
+<[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reckfy777@gmail.com) />
 </a>
 
 ###
