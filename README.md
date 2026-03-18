@@ -24,19 +24,11 @@
 ###
 
 <h3 align="left">🛠 Технологии:</h3>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-<!--
-**Zakon21/Zakon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Linux](https://img.shields.io/badge/Linux-orange?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%23E32636?style=flat-square&logo=ansible&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu%20bash&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233c1ddd?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white)
+![Windows Server](https://img.shields.io/badge/windows%20server-blue?style=flat-square&logo=windows-server&logoColor=white)
