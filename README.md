@@ -16,6 +16,8 @@
 
 ###
 
+<h3 align="left">🌐 На связи</h3>
+
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=%23ffffff)](https://t.me/dddggg_01)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:dilus2108@gmail.com)
 
