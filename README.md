@@ -17,7 +17,9 @@
 ###
 
 <h3 align="left">🌐Contact Me</h3>
-[![Telegram](https://img.shields.io/badge/Telegram-1A1D23?logo=telegram&color=1A1D23)](https://t.me/dddggg_01)
+<a href="https://t.me/tehnomaniak07" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+</a>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dilus2108@gmail.com)
 
 ###
